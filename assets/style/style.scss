@@ -1,0 +1,13 @@
+// Color variables
+$blue : #0D8187;
+$dark : #303030;
+$white : #fff;
+
+@font-face {
+    font-family: bellota;
+    src: url(../font/Bellota-Regular-webfont.ttf);
+}
+
+body{
+    font-family: 'Bellota';
+}

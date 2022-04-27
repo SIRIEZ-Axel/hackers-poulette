@@ -1,0 +1,9 @@
+@font-face {
+  font-family: bellota;
+  src: url(../font/Bellota-Regular-webfont.ttf);
+}
+
+body {
+  font-family: 'Bellota';
+}
+/*# sourceMappingURL=style.css.map */
