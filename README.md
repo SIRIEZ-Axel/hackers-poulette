@@ -11,7 +11,7 @@ This project is to create a fully-functioning online "contact support" form usin
   Design
 </h2>
 
-The design has being make using Figma.
+The design was done using Figma.
 
 *(Screen of the design)*
 
