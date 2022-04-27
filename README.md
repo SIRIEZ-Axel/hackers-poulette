@@ -1,7 +1,7 @@
 <h1 align=center>Hackers Poulette ™</h1>
 <h2>Purpose</h2>
 
-This project is about a contact form in ***PHP*** and ***MySQL*** for the company **Hackers Poulette**.
+This project is about the creation of a contact form in ***PHP*** for the support of the company **Hackers Poulette**.
 
 <h2>
   Technology used
