@@ -19,4 +19,4 @@ The design has being make using Figma.
   Author
 </h2>
 
-*SIRIEZ AXEL*
+[*SIRIEZ AXEL*](https://github.com/SIRIEZ-Axel)
