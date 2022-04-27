@@ -13,7 +13,7 @@ This project is to create a fully-functioning online "contact support" form usin
 
 The design was done using Figma.
 
-*(Screen of the design)*
+<img src="https://user-images.githubusercontent.com/98603007/165498779-3cb866c1-c3db-4cf1-a5ba-e243b61dd842.png" width=800>
 
 <h2>
   Author
