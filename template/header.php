@@ -8,13 +8,13 @@
     <link rel="stylesheet" href="../assets/style/style.css">
     <link rel="icon" href="../assets/img/hackers-poulette-logo.png">
     <script src="https://cdn.tailwindcss.com"></script>
-    <title>document</title>
+    <title>Hackers Poulette | Contact Support </title>
 </head>
 
 <body class="m-0 font-color">
     <header class=" h-28 flex items-center justify-around header-color">
         <h1 class="text-4xl font-bold mx-12">
-            Formulaire de contact
+            Contact Support
         </h1>
         <div class="flex gap-24">
             <a href="#" class="hover:underline hover:text-white">Home</a>

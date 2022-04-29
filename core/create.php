@@ -16,4 +16,3 @@ $dbstatement = $db->prepare($sql);
 $dbstatement->execute();
 
 header('Location:read.php');
-?>
