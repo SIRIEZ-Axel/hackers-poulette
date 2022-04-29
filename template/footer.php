@@ -4,12 +4,12 @@
             <div class="mb-6 md:mb-0">
                 <a href="https://flowbite.com" class="flex items-center">
                     <img src="../assets/img/hackers-poulette-logo.png" class="mr-3 h-8" alt="footer Logo">
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap font-color">Hackers Poulette</span>
+                    <span class="self-center text-2xl font-semibold whitespace-nowrap font-color hover:text-white">Hackers Poulette</span>
                 </a>
             </div>
             <div class="grid grid-cols-2 gap-8 sm:gap-6 sm:grid-cols-3">
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold font-color uppercase dark:text-white">Resources</h2>
+                    <h2 class="mb-6 text-sm font-semibold font-color uppercase">Resources</h2>
                     <ul class="font-color ">
                         <li class="mb-4">
                             <a href="#" class="hover:underline hover:text-white">Github</a>
@@ -20,7 +20,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold font-color hover:text-white uppercase dark:text-white">Follow us</h2>
+                    <h2 class="mb-6 text-sm font-semibold font-color uppercase">Follow me</h2>
                     <ul class="text-gray-600 dark:text-gray-400">
                         <li class="mb-4">
                             <a href="https://github.com/themesberg/flowbite" class="hover:underline hover:text-white font-color">Github</a>
@@ -31,7 +31,7 @@
                     </ul>
                 </div>
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold font-color uppercase dark:text-white font-color">Legal</h2>
+                    <h2 class="mb-6 text-sm font-semibold font-color uppercase">Legal</h2>
                     <ul class="font-color">
                         <li class="mb-4">
                             <a href="#" class="hover:underline hover:text-white">Privacy Policy</a>
