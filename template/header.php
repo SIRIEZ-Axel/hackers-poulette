@@ -12,8 +12,13 @@
 </head>
 
 <body class="m-0 font-color">
-    <header class=" h-24 flex items-center header-color">
+    <header class=" h-28 flex items-center justify-around header-color">
         <h1 class="text-4xl font-bold mx-12">
             Formulaire de contact
         </h1>
+        <div class="flex gap-24">
+            <a href="#" class="hover:underline">Home</a>
+            <a href="#" class="hover:underline">Contact</a>
+            <a href="#" class="hover:underline">About</a>
+        </div>
     </header>
