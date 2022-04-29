@@ -10,6 +10,7 @@ This project is to create a fully-functioning online "contact support" form usin
 <p>
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
 
@@ -32,7 +33,9 @@ This project is to create a fully-functioning online "contact support" form usin
 
 The design was done using Figma.
 
+
 [<img src="https://user-images.githubusercontent.com/98603007/165770838-c70cd6ad-d1fe-4ad9-8974-d391bca8bf0a.png">](https://www.figma.com/file/TQdEkTqRIbkQO4DdQc25fq/Hackers-Poulette-project?node-id=0%3A1)
+
 
 <h2>
   Author

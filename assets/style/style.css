@@ -1,0 +1,17 @@
+.header-color {
+  background-color: #0D8187;
+}
+
+.font-color {
+  color: #303030;
+}
+
+@font-face {
+  font-family: bellota;
+  src: url(../font/Bellota-Regular-webfont.ttf);
+}
+
+body {
+  font-family: 'Bellota';
+}
+/*# sourceMappingURL=style.css.map */
