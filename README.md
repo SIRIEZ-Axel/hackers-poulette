@@ -33,7 +33,9 @@ This project is to create a fully-functioning online "contact support" form usin
 
 The design was done using Figma.
 
-[Design screen](https://www.figma.com/file/TQdEkTqRIbkQO4DdQc25fq/Hackers-Poulette-project?node-id=0%3A1)
+
+[<img src="https://user-images.githubusercontent.com/98603007/165770838-c70cd6ad-d1fe-4ad9-8974-d391bca8bf0a.png">](https://www.figma.com/file/TQdEkTqRIbkQO4DdQc25fq/Hackers-Poulette-project?node-id=0%3A1)
+
 
 <h2>
   Author
