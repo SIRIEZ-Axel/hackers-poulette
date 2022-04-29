@@ -12,7 +12,7 @@
 </head>
 
 <body class="m-0 font-color">
-    <header class=" h-28 flex items-center justify-around header-color">
+    <header class=" h-40 flex items-center justify-around header-color">
         <h1 class="text-4xl font-bold mx-12">
             Contact Support
         </h1>
