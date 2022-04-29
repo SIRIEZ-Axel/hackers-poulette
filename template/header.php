@@ -17,8 +17,8 @@
             Contact Support
         </h1>
         <div class="flex gap-24">
-            <a href="#" class="hover:underline hover:text-white">Home</a>
-            <a href="#" class="hover:underline hover:text-white">Contact</a>
-            <a href="#" class="hover:underline hover:text-white">About</a>
+            <a href="#" class="hover:underline hover:text-white text-lg hover:scale-125 duration-300">Home</a>
+            <a href="#" class="hover:underline hover:text-white text-lg hover:scale-125 duration-300">Contact</a>
+            <a href="#" class="hover:underline hover:text-white text-lg hover:scale-125 duration-300">About</a>
         </div>
     </header>

@@ -3,7 +3,6 @@
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\SMTP;
 
-require_once '../core/read.php';
 require_once '../core/conn.php';
 require_once '../core/create.php';
 require_once '../PHPMailer/Exception.php';
