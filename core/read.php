@@ -10,7 +10,7 @@ require 'conn.php';
                 <img src="../assets/img/hackers-poulette-logo.png" alt="form img">
             </div>
 
-            <form action="create.php" method="GET" class="flex flex-col p-10">
+            <form action="mail.php" method="GET" class="flex flex-col p-10">
                 <div class="flex gap-10">
                     <div class="mb-6 w-60">
                         <input type="text" class="shadow-sm bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 outline-none" name="prenom" placeholder="Prénom">
