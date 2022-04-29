@@ -1,18 +1,41 @@
 <?php
-require 'conn.php';
-require 'create.php';
 
-$to = "axel.siriez@gmail.com";
-$mail = $_GET['mail'];
-$sujet = $_GET['sujet'];
-$message = $_GET['message'];
+use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer\PHPMailer\SMTP;
 
-$message = wordwrap($message, 70, "\r\n");
+require_once '../PHPMailer/Exception.php';
+require_once '../PHPMailer/PHPMailer.php';
+require_once '../PHPMailer/SMTP.php';
 
-$headers = [
-    "from" => "$mail"
-];
 
-mail($to, $sujet, $message, $headers);
+$mail = new PHPMailer(true);
+try{
 
-header('location:read.php');
+    // config
+    $mail->SMTPDebug = SMTP::DEBUG_SERVER; // Je veux des info de debug
+
+    // config du SMTP
+    $mail->isSMTP();
+    $mail->Host = 'localhost';
+    $mail->Port = 1025;
+    
+//charset
+$mail->CharSet = "utf-8";
+
+//Destinataire
+$mail->addAddress('exemple@site.fr');
+
+//expéditeur
+$mail->setFrom('no-reply@site.fr');
+
+//contenu
+$mail->Subject = "Sujet du message";
+$mail->Body = "message";
+
+//on envoie
+$mail->send();
+echo "message envoyé";
+} catch(Exception){
+    echo 'Message non envoyé';
+}
+
