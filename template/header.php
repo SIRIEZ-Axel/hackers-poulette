@@ -17,8 +17,8 @@
             Formulaire de contact
         </h1>
         <div class="flex gap-24">
-            <a href="#" class="hover:underline">Home</a>
-            <a href="#" class="hover:underline">Contact</a>
-            <a href="#" class="hover:underline">About</a>
+            <a href="#" class="hover:underline hover:text-white">Home</a>
+            <a href="#" class="hover:underline hover:text-white">Contact</a>
+            <a href="#" class="hover:underline hover:text-white">About</a>
         </div>
     </header>

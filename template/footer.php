@@ -1,6 +1,6 @@
 </body>
-    <footer class="p-4 header-color mt-16">
-        <div class="md:flex md:justify-between">
+    <footer class="p-4 header-color mt-16 ">
+        <div class="md:flex md:justify-around">
             <div class="mb-6 md:mb-0">
                 <a href="https://flowbite.com" class="flex items-center">
                     <img src="../assets/img/hackers-poulette-logo.png" class="mr-3 h-8" alt="footer Logo">
@@ -12,21 +12,21 @@
                     <h2 class="mb-6 text-sm font-semibold font-color uppercase dark:text-white">Resources</h2>
                     <ul class="font-color ">
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Github</a>
+                            <a href="#" class="hover:underline hover:text-white">Github</a>
                         </li>
                         <li>
-                            <a href="https://tailwindcss.com/" class="hover:underline">Tailwind CSS</a>
+                            <a href="https://tailwindcss.com/" class="hover:underline hover:text-white">Tailwind CSS</a>
                         </li>
                     </ul>
                 </div>
                 <div>
-                    <h2 class="mb-6 text-sm font-semibold font-color uppercase dark:text-white">Follow us</h2>
+                    <h2 class="mb-6 text-sm font-semibold font-color hover:text-white uppercase dark:text-white">Follow us</h2>
                     <ul class="text-gray-600 dark:text-gray-400">
                         <li class="mb-4">
-                            <a href="https://github.com/themesberg/flowbite" class="hover:underline font-color">Github</a>
+                            <a href="https://github.com/themesberg/flowbite" class="hover:underline hover:text-white font-color">Github</a>
                         </li>
                         <li>
-                            <a href="https://discord.gg/4eeurUVvTy" class="hover:underline font-color">Discord</a>
+                            <a href="https://discord.gg/4eeurUVvTy" class="hover:underline hover:text-white font-color">Discord</a>
                         </li>
                     </ul>
                 </div>
@@ -34,18 +34,18 @@
                     <h2 class="mb-6 text-sm font-semibold font-color uppercase dark:text-white font-color">Legal</h2>
                     <ul class="font-color">
                         <li class="mb-4">
-                            <a href="#" class="hover:underline">Privacy Policy</a>
+                            <a href="#" class="hover:underline hover:text-white">Privacy Policy</a>
                         </li>
                         <li>
-                            <a href="#" class="hover:underline">Terms &amp; Conditions</a>
+                            <a href="#" class="hover:underline hover:text-white">Terms &amp; Conditions</a>
                         </li>
                     </ul>
                 </div>
             </div>
         </div>
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
-        <div class="sm:flex sm:items-center sm:justify-between">
-            <span class="text-sm font-color sm:text-center">© 2022 <a href="#" class="hover:underline">Hackers Poulette™</a>. All Rights Reserved.
+        <div class="sm:flex sm:items-center sm:justify-around">
+            <span class="text-sm font-color sm:text-center">© 2022 <a href="#" class="hover:underline hover:text-white">Hackers Poulette™</a>. All Rights Reserved.
             </span>
             <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
                 <a href="#" class="font-color hover:text-gray-900 dark:hover:text-white">
