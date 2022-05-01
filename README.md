@@ -25,6 +25,7 @@ This project is to create a fully-functioning online "contact support" form usin
 <h3>Backend :</h3>
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <h2>
@@ -33,7 +34,9 @@ This project is to create a fully-functioning online "contact support" form usin
 
 The design was done using Figma.
 
-[Design screen](https://www.figma.com/file/TQdEkTqRIbkQO4DdQc25fq/Hackers-Poulette-project?node-id=0%3A1)
+
+[<img src="https://user-images.githubusercontent.com/98603007/165967668-3199f9d7-56c9-47f6-96fc-a3350ccb64ea.png">](https://www.figma.com/file/TQdEkTqRIbkQO4DdQc25fq/Hackers-Poulette-project?node-id=0%3A1)
+
 
 <h2>
   Author
